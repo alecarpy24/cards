@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/alecarpy24/cards/static/css/main.ad757cde.css",
-    "main.js": "/alecarpy24/cards/static/js/main.537390e9.js",
-    "static/js/453.8f3d570f.chunk.js": "/alecarpy24/cards/static/js/453.8f3d570f.chunk.js",
-    "static/media/image2.jpg": "/alecarpy24/cards/static/media/image2.f57e37a5b9faa9d51e1c.jpg",
-    "static/media/image3.jpg": "/alecarpy24/cards/static/media/image3.de2e4145d934e647f47d.jpg",
-    "index.html": "/alecarpy24/cards/index.html",
-    "main.ad757cde.css.map": "/alecarpy24/cards/static/css/main.ad757cde.css.map",
-    "main.537390e9.js.map": "/alecarpy24/cards/static/js/main.537390e9.js.map",
-    "453.8f3d570f.chunk.js.map": "/alecarpy24/cards/static/js/453.8f3d570f.chunk.js.map"
+    "main.css": "/cards/static/css/main.ad757cde.css",
+    "main.js": "/cards/static/js/main.b5e0df5e.js",
+    "static/js/453.8f3d570f.chunk.js": "/cards/static/js/453.8f3d570f.chunk.js",
+    "static/media/image2.jpg": "/cards/static/media/image2.f57e37a5b9faa9d51e1c.jpg",
+    "static/media/image3.jpg": "/cards/static/media/image3.de2e4145d934e647f47d.jpg",
+    "index.html": "/cards/index.html",
+    "main.ad757cde.css.map": "/cards/static/css/main.ad757cde.css.map",
+    "main.b5e0df5e.js.map": "/cards/static/js/main.b5e0df5e.js.map",
+    "453.8f3d570f.chunk.js.map": "/cards/static/js/453.8f3d570f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad757cde.css",
-    "static/js/main.537390e9.js"
+    "static/js/main.b5e0df5e.js"
   ]
 }
