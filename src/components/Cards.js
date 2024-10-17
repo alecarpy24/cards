@@ -8,7 +8,7 @@ const cards = [
         id: 1,
         title: 'Fazt web',
         image: image1,
-        url:'https://blog.www.faztweb.com/'
+        url:'https://blog.faztweb.com/'
     }, {
         id: 2,
         title: 'Fazt Blog',
